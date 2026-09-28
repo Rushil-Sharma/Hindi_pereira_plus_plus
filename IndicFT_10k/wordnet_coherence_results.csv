@@ -1,0 +1,6 @@
+Algorithm,Mean_WordNet_Coherence,Std_WordNet_Coherence,Clusters_Evaluated,Clusters_Skipped
+Agglomerative_Cosine,,,0,200
+Gaussian_Mixture,,,0,200
+MiniBatchKMeans,,,0,200
+Spectral,,,0,200
+Voronoi_Partition,,,0,200
